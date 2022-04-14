@@ -4,6 +4,7 @@ el link del curso es : https://platzi.com/cursos/git-github/
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 *  buenas prácticas
+* creado por Joshua Lattke 
 # no hay ninguna calculadora binaria.
 
 
