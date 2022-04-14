@@ -6,6 +6,7 @@ el link del curso es : https://platzi.com/cursos/git-github/
 *  buenas prácticas
 * creado por Joshua Lattke 
 * se utilizo  virtual box para la prueba de colaboladores en linux y se uso windows 
+* se hace mucha practica 
 # no hay ninguna calculadora binaria.
 
 
