@@ -5,6 +5,8 @@ el link del curso es : https://platzi.com/cursos/git-github/
 * El flujo de trabajo en Github
 *  buenas prácticas
 * creado por Joshua Lattke 
+* se utilizo  virtual box para la prueba de colaboladores en linux y se uso windows 
+* se hace mucha practica 
 # no hay ninguna calculadora binaria.
 
 
